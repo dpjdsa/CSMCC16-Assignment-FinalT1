@@ -1,6 +1,7 @@
 # CSMCC16-Assignment-FinalT1
 This Repository contains the java code for Assignment Task 1
-The code is written in Java and is a multi-threaded, error-correcting version
+The code is written in Java and is a multi-threaded, error-correcting version.
+
 To Run:
 java Task_1.java Top30_airports_LatLong.csv AComp_Passenger_data.csv
 
