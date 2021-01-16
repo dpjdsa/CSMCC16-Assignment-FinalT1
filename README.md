@@ -1,5 +1,4 @@
 # CSMCC16-Assignment-FinalT1
-Repository Containing Final Code for Assignment
 This Repository contains the java code for Assignment Task 1
 The code is written in Java and is a multi-threaded, error-correcting version
 To Run:
