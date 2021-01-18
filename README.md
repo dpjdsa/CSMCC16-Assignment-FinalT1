@@ -14,6 +14,7 @@ export PATH_TO_FX /Applications/javafx-sdk-11.0.2/lib/
 Then compile the module using the $PATH_TO_FX variable:
  
 javac --module-path $PATH_TO_FX --add-modules javafx.controls Charting.java 
+
 finally run by:
  
 java --module-path $PATH_TO_FX --add-modules javafx.controls Charting
